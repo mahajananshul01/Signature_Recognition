@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+notebook/data
+notebook/more_data
+signature_recog
